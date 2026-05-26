@@ -1,0 +1,31 @@
+-- Simple Hub Loader
+local placeId = game.PlaceId
+
+local placeIds = {
+    [101272402522756] = function() -- BBQ Battles
+  		loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/BBQ%20Battle"))()
+    end,
+    
+    [99046552174353] = function() -- Slime Seas ⚔️ Anime RPG
+      print("Adding support for this game soon!")
+    end,
+    
+    [72551397025540] = function() -- GRIND [RPG/PVP] ⚔️
+      print("Adding support for this game soon!")
+    end,
+    
+    [18923620224] = function() -- [🌧️ UPDATE 1] Anime Warriors III
+      print("Adding support for this game soon!")
+    end,
+
+	[94845773826960] = function() -- [UPD] Dungeon Heroes ⚔️
+      print("Adding support for this game soon!")
+    end,
+}
+
+-- for if b1ue doesnt support the game their in
+if placeIds[placeId] then
+    placeIds[placeId]()
+else
+    print("Unsupported Game ID: " .. placeId)
+end
