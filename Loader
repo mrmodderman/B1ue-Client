@@ -21,6 +21,10 @@ local placeIds = {
 	[94845773826960] = function() -- [UPD] Dungeon Heroes ⚔️
       print("Adding support for this game soon!")
     end,
+
+	[110334393584385] = function() -- Roller for Brainrots!
+      print("Adding support for this game soon!")
+    end,
 }
 
 -- for if b1ue doesnt support the game their in
