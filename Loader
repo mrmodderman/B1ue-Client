@@ -11,7 +11,7 @@ local placeIds = {
     end,
     
     [155615604] = function() -- Prison Life
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/BBQ%20Battle"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Prison%20Life"))()
     end,
     
     [18923620224] = function() -- [🌧️ UPDATE 1] Anime Warriors III
