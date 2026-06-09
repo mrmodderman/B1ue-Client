@@ -10,8 +10,8 @@ local placeIds = {
       print("Adding support for this game soon!")
     end,
     
-    [72551397025540] = function() -- GRIND [RPG/PVP] ⚔️
-      print("Adding support for this game soon!")
+    [155615604] = function() -- Prison Life
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/BBQ%20Battle"))()
     end,
     
     [18923620224] = function() -- [🌧️ UPDATE 1] Anime Warriors III
