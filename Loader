@@ -15,15 +15,15 @@ local placeIds = {
     end,
 
     [14259168147] = function() -- BL (Basketball Legends) Title Screen
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Prison%20Life"))()
+      https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Basketball%20Legends
     end,
 
     [14386691987] = function() -- BL Park
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Prison%20Life"))()
+      https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Basketball%20Legends
     end,
 
     [71832465156084] = function() -- BL 5v5
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Prison%20Life"))()
+      https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Basketball%20Legends
     end,
     
     [18923620224] = function() -- [🌧️ UPDATE 1] Anime Warriors III
@@ -31,10 +31,6 @@ local placeIds = {
     end,
 
 	[94845773826960] = function() -- [UPD] Dungeon Heroes ⚔️
-      print("Adding support for this game soon!")
-    end,
-
-	[110334393584385] = function() -- Roller for Brainrots!
       print("Adding support for this game soon!")
     end,
 }
