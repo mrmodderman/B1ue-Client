@@ -21,7 +21,7 @@ local placeIds = {
     end,
     
     [124786371598438] = function() -- Drain The Lake
-      print("Adding support for this game soon!")
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Drain%20The%20Lake"))()
     end,
 
     [138381251771774] = function() -- Drain The Lake
