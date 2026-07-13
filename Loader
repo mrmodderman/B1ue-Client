@@ -4,8 +4,9 @@ local placeIds = {
   		loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/BBQ%20Battle"))()
     end,
     
-    [155615604] = function() -- Prison Life
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Prison%20Life"))()
+    [No Support] = function() -- Prison Life
+        Print("Removed support, join discord for further information")
+		Print("https://discord.gg/pmawGRpVX")
     end,
 
     [14259168147] = function() -- BL (Basketball Legends) Title Screen
