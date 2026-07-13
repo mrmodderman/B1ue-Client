@@ -20,8 +20,12 @@ local placeIds = {
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Basketball%20Legends"))()
     end,
     
-    [18923620224] = function() -- [🌧️ UPDATE 1] Anime Warriors III
+    [124786371598438] = function() -- Drain The Lake
       print("Adding support for this game soon!")
+    end,
+
+    [138381251771774] = function() -- Drain The Lake
+      print("Enter a lake to execute the script")
     end,
 
 	[537413528] = function() -- [UPD] BABFT
