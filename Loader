@@ -20,14 +20,6 @@ local placeIds = {
     [71832465156084] = function() -- BL 5v5
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Basketball%20Legends"))()
     end,
-    
-    [124786371598438] = function() -- Drain The Lake
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Drain%20The%20Lake"))()
-    end,
-
-    [138381251771774] = function() -- Drain The Lake
-      print("Enter a lake to execute the script")
-    end,
 
 	[537413528] = function() -- [UPD] BABFT
       loadstring(game:HttpGet("https://raw.githubusercontent.com/mrmodderman/B1ue-Client/refs/heads/main/Build%20A%20Boat%20For%20Treasure"))()
