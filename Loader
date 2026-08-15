@@ -26,7 +26,7 @@ local placeIds = {
     end,
 }
 
--- for if b1ue doesnt support the game their in
+-- load universal if game isnt detected
 if placeIds[placeId] then
     placeIds[placeId]()
 else
